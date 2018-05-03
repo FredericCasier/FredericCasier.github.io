@@ -3,8 +3,13 @@
 	src: url("font/Homunculus.otf");
 }
 
+
+
 body
-{
+{	
+	background-position: top 90% center;
+	background-repeat: no-repeat;
+	background-image: url("screen/deco.png");
 	background-color: #303030;
 	color: #F2F2F2;
 	font-family: Homunculus, Impact;
@@ -51,4 +56,14 @@ p
 li
 {
 	font-size: 20px;
+}
+
+.image
+{
+	
+}
+
+.fondnoir
+{
+	
 }
