@@ -16,7 +16,7 @@ body
 
 }
 
-p, h3, h1, li
+p, h3, h1, li, form, h5
 {
 	text-align: center;	
 }
@@ -47,6 +47,11 @@ h4, h3
 	font-size: 50px;
 }
 
+h5
+{
+	font-size: 35px;
+}
+
 p
 {
 	font-size: 30px;
@@ -55,15 +60,5 @@ p
 
 li
 {
-	font-size: 20px;
-}
-
-.image
-{
-	
-}
-
-.fondnoir
-{
-	
+	font-size: 35px;
 }
